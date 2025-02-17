@@ -6,9 +6,22 @@ movies = {
     "Pulp Fiction": 8.8,
     "The Room": 3.6,
     "The Godfather": 9.2,
+    "The Dark Knight": 9.0,
+    "Inception": 8.8,
+    "Fight Club": 8.8,
+    "Forrest Gump": 8.8,
+    "The Matrix": 8.7,
+    "Interstellar": 8.7,
+    "The Lord of the Rings: The Return of the King": 8.9,
+    "The Lord of the Rings: The Fellowship of the Ring": 8.8,
+    "The Lord of the Rings: The Two Towers": 8.7,
+    "Star Wars: Episode V - The Empire Strikes Back": 8.7,
+    "Star Wars: Episode IV - A New Hope": 8.6,
+    "Star Wars: Episode VI - Return of the Jedi": 8.3,
+    "The Silence of the Lambs": 8.6,
+    "Gladiator": 8.5,
+    "Saving Private Ryan": 8.6,
 }
-
-
 # Function to list all movies
 def list_of_movies(movies):
     if not movies:
